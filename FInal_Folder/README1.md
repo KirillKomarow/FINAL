@@ -44,7 +44,7 @@
 
 
 ### Результаты:  
-....
+Создана [функция](https://github.com/KirillKomarow/FINAL/blob/master/FInal_Folder/final.py) позволяющая угадывать рандомное число, в диапазоне от 1 до 100, за менее чем 20 попыток
 
 :arrow_up:[к оглавлени](https://github.com/KirillKomarow/FINAL/blob/master/FInal_Folder/README1.md#Оглавление)
 
